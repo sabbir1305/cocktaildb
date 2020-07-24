@@ -328,13 +328,18 @@ Cocktail
 .drink img {
   border-radius: var(--mainBorderRadius);
 }
-.drink p {
-  font-weight: bold;
+.drink  {
+ 
   text-transform: capitalize;
+}
+.drink label{
+  font-weight: bold;
 }
 .drink span {
   margin-right: 0.5rem;
 }
+
+
 .drink-info {
   padding-top: 2rem;
 }
